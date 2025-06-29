@@ -1,2 +1,2 @@
-# Cac-man-game
-pac-man game
+git branch -M main
+git push -u origin main
